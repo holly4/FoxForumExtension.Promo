@@ -1,0 +1,23 @@
+Add function and, and Fun!, to the  Fox News Forum. If you use the Fox News Forum a lot, you really want this extension!
+
+The Fox Forum Helper extension adds the following functions to the Fox News Forum. Each function is selectable and you can use any or all of them:
+
+1) Clean The Page – removes all content except the forum from the page
+
+2) Show Liker Avatars – see the avatars of those who "liked" posts. (This is built into livefye but disabled by Fox News.
+
+3) Show Filtered Posts - see posts that have been filtered due to content (or deleted by the poster) 
+
+4) Control Scrolling - have control over whether lifefyre will scroll you down to a reply 
+
+5) Filter Users - remove posts from selected users before you see them
+
+
+ABOUT PERMISSIONS
+As a page extension limited to access only to foxnews.com no special permissions are requested or needed.
+
+HELP & SUGGESTIONS
+Help Center http://hollies.pw/support/
+
+CONTACT
+foxforumhelper@hollies.pw
